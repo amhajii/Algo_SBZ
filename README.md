@@ -1,3 +1,6 @@
 # Algo_SBZ
 Algorithms Repository  (beta)
-[answer](https://github.com/amhajii/Algo_Keys/blob/main/README.md)
+
+<br>
+
+[سری اول سوالات (001)](https://github.com/amhajii/Algo_Keys/blob/main/README.md)
