@@ -17,7 +17,6 @@
 
 <table>
 
---------
 <table>
   
   <tr>
@@ -58,17 +57,6 @@
     </th>
   </tr>
 
-
-<!-- 
-  <tr>
-    <th>{ID}</th>
-    <th>{Language}</th>
-    <th>{author}</th>
-    <th>
-        <!-- <a href='https://github.com/amhajii/Algo_Keys/tree/main/{Folder}/{Question}/{AnswerID}'>جواب+</a> -->
-    </th>
-  </tr>
- -->
 
 
 
