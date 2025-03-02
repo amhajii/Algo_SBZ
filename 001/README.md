@@ -27,7 +27,7 @@
     <td>آرایه دو بعدی</td>
     <td>
       انتخاب k عنصر از n عنصر<br>
-      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/q2001.pdf'>دانلود سوال +</a>
+      <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>دانلود سوال +</a>
     </td>
     <td>
         <a href='/src/2001/'>solved</a>
