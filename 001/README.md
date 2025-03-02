@@ -33,11 +33,11 @@
       چاپ جمع
       <br>
       <!-- Question Link -->
-      <a href='https://quera.org/problemset/275795'>Download+</a>
+      <a href='https://quera.org/problemset/275795'>View+</a>
     </td>
     <!-- Answer Link -->
     <td>
-        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>solving</a>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>Check</a>
     </td>
   </tr>
 
@@ -50,11 +50,11 @@
       رشته‌ی خوب و رشته‌ی بد
       <br>
       <!-- Question Link -->
-      <a href='https://quera.org/problemset/275792'>Download+</a>
+      <a href='https://quera.org/problemset/275792'>View+</a>
     </td>
     <!-- Answer Link -->
     <td>
-        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/002/README.md'>solving</a>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/002/README.md'>Check</a>
     </td>
   </tr>
 
