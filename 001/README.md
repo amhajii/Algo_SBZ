@@ -30,7 +30,7 @@
       <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>دانلود سوال +</a>
     </td>
     <td>
-        <a href='/src/2001/'>solved</a>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>solved</a>
     </td>
   </tr>
   <tr>
