@@ -11,13 +11,13 @@
 
 # صورت سوال تمرین‌ها
 
-<div>
-<table>
+<div align="center">
+<table >
 
   <tr>
     <th>کد سوال</th>
     <th>منبع</th>
-    <th>گروه‌بندی</th>
+    <th>برچسب</th>
     <th>سوال</th>
     <th>وضعیت</th>
   </tr>
