@@ -10,10 +10,7 @@
 </td> -->
 
 # صورت سوال تمرین‌ها
-Email: <a href="mailto:rahmat2022a@gmail.com">rahmat2022a@gmail.com</a>
-<br>
-Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
-<br><br>
+
 <div>
 <table>
   <tr>
@@ -23,7 +20,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <th>سوال</th>
     <th>وضعیت</th>
   </tr>
-  
+
   <tr>
     <td>1</td>
     <td>001</td>
