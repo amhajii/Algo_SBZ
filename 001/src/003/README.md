@@ -10,8 +10,8 @@
     <th>گروه سوال</th>
   </tr>
   <tr>
-    <th>002</th>
-    <th> رشته ها</th>
+    <th>000</th>
+    <th> - </th>
   </tr>
 <table>
 
@@ -29,11 +29,11 @@
 
 
   <tr>
-    <th>01</th>
-    <th>c++</th>
-    <th>amhajii</th>
+    <th>00</th>
+    <th>-</th>
+    <th>-</th>
     <th>
-        <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/002/01'>جواب+</a>
+        <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/003/01'>جواب+</a>
     </th>
   </tr>
 

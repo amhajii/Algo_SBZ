@@ -37,7 +37,7 @@
     </td>
     <!-- Answer Link -->
     <td>
-        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>solved</a>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/001/README.md'>solving</a>
     </td>
   </tr>
 
@@ -54,7 +54,7 @@
     </td>
     <!-- Answer Link -->
     <td>
-        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/002/README.md'>solved</a>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/002/README.md'>solving</a>
     </td>
   </tr>
 

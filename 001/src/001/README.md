@@ -32,7 +32,7 @@
 
   <tr>
     <th>01</th>
-    <th>cpp</th>
+    <th>c++</th>
     <th>amhajii</th>
     <th>
         <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/001/01'>جواب+</a>
@@ -41,7 +41,7 @@
 
   <tr>
     <th>02</th>
-    <th>py</th>
+    <th>python</th>
     <th>mostafa</th>
     <th>
         <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/001/02'>جواب+</a>
@@ -51,7 +51,7 @@
 
   <tr>
     <th>03</th>
-    <th>py</th>
+    <th>python</th>
     <th>mammad</th>
     <th>
         <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/001/03'>جواب+</a>
