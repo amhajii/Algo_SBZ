@@ -1,7 +1,7 @@
 # Answer page
 
 
-<div>
+## اطلاعات سوال
 
 <table>
   
@@ -16,7 +16,7 @@
 <table>
 
 
-
+## جواب ها
 <table>
   <tr>
     <th>کد</th>
@@ -52,9 +52,4 @@
 
 
 
-
-
-
-
 <table>
-</div>
