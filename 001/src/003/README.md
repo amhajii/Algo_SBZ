@@ -10,8 +10,8 @@
     <th>گروه سوال</th>
   </tr>
   <tr>
-    <th>000</th>
-    <th> - </th>
+    <th>003</th>
+    <th> حریصانه </th>
   </tr>
 <table>
 
@@ -29,9 +29,10 @@
 
 
   <tr>
-    <th>00</th>
-    <th>-</th>
-    <th>-</th>
+    <th>01</th>
+    <th>c++</th>
+    <th>
+      <a href='https://github.com/amhajii'>Amhajii</a></th>
     <th>
         <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/003/01'>جواب+</a>
     </th>
@@ -39,8 +40,8 @@
 
 
 
-
-  <!-- <tr>
+<!-- 
+  <tr>
     <th>{ID}</th>
     <th>{Language}</th>
     <th>{author}</th>
