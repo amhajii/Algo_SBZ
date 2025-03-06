@@ -41,6 +41,7 @@
     </td>
   </tr>
 
+
   <tr>
     <td>002</td>
     <th>کوئرا</th>
@@ -55,6 +56,24 @@
     <!-- Answer Link -->
     <td>
         <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/002/README.md'>Check</a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>003</td>
+    <th>کوئرا</th>
+    <td> حریصانه</td>
+    <td>
+      <!-- title -->
+      نمک زندگی
+      <br>
+      <!-- Question Link -->
+      <a href='https://quera.org/problemset/20258'>View+</a>
+    </td>
+    <!-- Answer Link -->
+    <td>
+        <a href='https://github.com/amhajii/Algo_SBZ/blob/main/001/src/003/README.md'>Check</a>
     </td>
   </tr>
 
